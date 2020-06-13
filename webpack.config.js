@@ -47,7 +47,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             template: __dirname + "/src/html/index.html",
             inject: 'body',
-            minify: false
+            minify: true
        }),
         new CopyWebpackPlugin([
             { from: 'src/img/',

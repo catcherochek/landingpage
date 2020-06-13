@@ -11,6 +11,7 @@
 @import "pricing";
 @import "contact";
 @import "footer";
+@import "rent";
 
 body {
     color: $typografyColor;
@@ -102,8 +103,9 @@ p {
 
 .btn-common:hover {
     color: #fff !important;
-    background: $secondBckground;
+    background: $secondBckground !important;
     border: 2px solid $mainborderColor;
+    transition: background-color 0.5s 0.1s linear, color 0.5s 0.1s linear;
 }
 
 .btn-border {

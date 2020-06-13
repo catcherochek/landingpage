@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be98996f-efbd-4b8a-a155-19778921e1c0" name="Default Changelist" comment="" />
+    <list default="true" id="be98996f-efbd-4b8a-a155-19778921e1c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scss/_rent.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/about/img1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about/img1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/about/img2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about/img2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/about/img3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about/img3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/about/img4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about/img4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/about/testimonial-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/about/testimonial-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/bg-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/slider/bg-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/bg-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/slider/bg-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/slider/bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/slider/bg-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/testimonial/testimonial-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/testimonial/testimonial-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/entry.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jss/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/jss/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_achievments.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_achievments.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_portfolio.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_portfolio.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_thumbnail.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_thumbnail.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,9 +140,14 @@
   <component name="ProjectId" id="1b1u6cNbfkqIe5mjB9WBVri3KN1" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/scss" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\static_www\helium-opl\src\scss" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -130,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -163,8 +194,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.test" />
       </list>
     </recent_temporary>
@@ -188,10 +219,59 @@
       <workItem from="1588051064797" duration="29681000" />
       <workItem from="1588136682312" duration="14396000" />
       <workItem from="1588163950837" duration="1433000" />
+      <workItem from="1588171640348" duration="1411000" />
+      <workItem from="1588318250104" duration="22372000" />
+      <workItem from="1588397179595" duration="8877000" />
+      <workItem from="1588425026670" duration="487000" />
+      <workItem from="1588435528736" duration="791000" />
+      <workItem from="1588504620541" duration="29552000" />
+      <workItem from="1588586125511" duration="7929000" />
+      <workItem from="1589637413134" duration="159000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1588171716688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588171716688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/entry.js</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/entry.js</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

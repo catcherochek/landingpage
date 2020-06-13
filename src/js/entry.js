@@ -27,6 +27,16 @@ $(window).on('load', function() {
     $('.navbar-nav').onePageNav({
         currentClass: 'active'
     });
+    $('.gogogo').click(function () {
+        var addressValue = $(this).attr("href");
+        $("body,html").animate(
+            {
+                scrollTop: $(addressValue).offset().top
+            },
+            3000 //speed
+        );
+
+    })
 
 
     /* Back Top Link acive
